@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitkim11, Backend Developer
-- 👀 I’m interested in Redis, Kafka and AWS
+- 👀 I’m interested in Java & Spring Boot
 - 💞️ I’m looking to collaborate on backend development, RESTful API design, etc
 - 📫 How to reach me : wonilkim0517@gmail.com
 
